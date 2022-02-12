@@ -1,5 +1,3 @@
-# meu-medico-favorito
-
 ## Projeto Meu Médico Favorito
 
 Nesse projetos foi desenvolvido um novo produto, onde o usuário poderá pesquisar médicos e favoritar os preferidos por ele, sendo possível dessa maneira, o paciente ter um acesso mais rápido aos médicos que mais gostou do atendimento.
